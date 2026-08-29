@@ -97,7 +97,9 @@ this course is built on top of that.
 - NumPy --- Random generator and seeds --- <https://numpy.org/doc/stable/reference/random/generator.html>
 - Pro Git --- Getting started --- <https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup>
 
----
+--- ## AI Assistance Disclosure
+
+I used AI assistance for guidance while setting up the environment, understanding the practical instructions, and troubleshooting errors. I reviewed and ran the submitted code myself and can explain and modify the work submitted.
 
 *Open `P01.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
